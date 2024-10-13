@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <title>FON: Zakazivanje kolokvijuma</title>
+    <title>Zakazivanje kolokvijuma</title>
+    //promena naslova
 
 </head>
 <body>
